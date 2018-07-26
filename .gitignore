@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+cities.cpg
+
+cities.dbf
+
+cities.shp
+
+cities.shx
