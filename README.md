@@ -1,6 +1,6 @@
 ## What is this ?
 
-This is the repository of my talk "PROCESSING GEODATA USING PYTHON AND OPEN SOURCE MODULE"
+This is the repository of my talk "PROCESSING GEODATA USING PYTHON AND OPEN SOURCE MODULES"
 at EuroPython 2018
 
 https://ep2018.europython.eu/conference/talks/processing-geodata-using-python-and-open-source-modules
